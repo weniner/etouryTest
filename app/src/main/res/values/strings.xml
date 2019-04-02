@@ -1,3 +1,10 @@
 <resources>
+    <!--appName-->
     <string name="app_name">EtourtyTest</string>
+
+    <!--Main-->
+    <string name="main_start">开始</string>
+
+    <!--Time Fragment-->
+
 </resources>
